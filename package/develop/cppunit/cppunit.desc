@@ -20,7 +20,7 @@
 
 [C] extra/development
 [F] CROSS
-[D] opt graphviz
+[E] opt graphviz
 
 [L] LGPL
 [S] Stable
